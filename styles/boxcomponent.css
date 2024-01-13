@@ -1,0 +1,43 @@
+/* BoxComponent.css */
+.box {
+    border: 1px solid #ccc;
+    margin: 10px;
+    transition: height 0.3s ease-in-out;
+    overflow: hidden;
+  }
+  
+  .box.expanded {
+    height: auto;
+  }
+  
+  .box-header {
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0;
+  }
+  
+  .box-content {
+    display: none;
+    padding: 10px;
+  }
+  
+  .expanded .box-content {
+    display: block;
+  }
+  
+  .arrow {
+    border: solid #333;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .expanded .arrow {
+    transform: rotate(-135deg);
+  }
+  
