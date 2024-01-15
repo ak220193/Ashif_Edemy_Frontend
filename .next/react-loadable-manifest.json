@@ -1,0 +1,50 @@
+{
+  "../components/About/AboutUsContentThree.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/About/AboutUsContentTwo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/About/IntoVideo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/OnlineTrainingSchool/AboutArea.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/SingleCourses/CoursesDetailsSidebar.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/SuccessStory/IntroVideo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/VendorCertificationTraining/AboutArea.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  },
+  "../components/YogaTraining/JoinOurYogaTraining.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239.05209ef48c2156bb.js"
+    ]
+  }
+}
