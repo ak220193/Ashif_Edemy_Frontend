@@ -4,7 +4,7 @@ module.exports = {
   sassOptions: {
     includePaths: [
       path.join(__dirname, "styles"),
-      "https://ashif-edemy-backend.vercel.app/",
+      "https://ashif-edemy-backend.vercel.app",
     ],
   },
 };
